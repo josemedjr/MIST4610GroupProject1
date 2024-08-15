@@ -1,4 +1,4 @@
-# Group 8 MIST 4610 Group Project 1
+# SQL Data Modeling and Analysis
 
 ## Team Name:
 47114 Group 8
